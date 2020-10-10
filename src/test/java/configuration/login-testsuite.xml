@@ -1,0 +1,10 @@
+<suite name = "Test plan">
+
+    <test name = "test todomvc on chrome">
+        <classes>
+            <class name ="testcases.loginTest"/>
+        </classes>
+
+    </test>
+
+</suite>
